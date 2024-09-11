@@ -9,8 +9,8 @@
 
 🌱 Digital Sprouts / Korea National University of Transfortation (Software Lab)
 
-![Github](https://github-readme-stats.vercel.app/api?username=yuik371&theme=blue-green)
-![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik371&theme=blue-green)
+![Github](https://github-readme-stats.vercel.app/api?username=yuik0712&theme=blue-green)
+![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik0712&theme=blue-green)
 
 <h2 align="center">🔥Tech Stack🔥</h2>
 
