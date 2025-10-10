@@ -1,20 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello_World%20!🥳&fontSize=50&animation=twinkling)
 
-
 🏫 university - Korea National University of Transfortation (Department of Software)
 
 👨‍🏫 graduate school - Korea National University of Transfortation (Department of Software)
 
-💼 LAB / BigData & DataBase Lab
-
-🌱 Digital Sprouts / Korea National University of Transfortation (Software Lab)
+💼 LAB / BigData & DataBase Lab & Intelligent DataBase Lab (2024.03.07 ~ 현재)
 
 ![Github](https://github-readme-stats.vercel.app/api?username=yuik0712&theme=blue-green)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik0712&theme=blue-green)
 
-<h2 align="center">🔥Tech Stack🔥</h2>
+<h2 align="center">🔥 Tech Stack🔥</h2>
 
-<h5 align="center"> 👩🏻‍💻Main Skill </h5>
+<h5 align="center"> 👩🏻‍💻 Main Skill </h5>
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=black"/>
@@ -26,7 +23,7 @@
 
 </p>
 
-<h5 align="center"> ✍Sub Skill </h5>
+<h5 align="center"> ✍ Sub Skill </h5>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </p>
