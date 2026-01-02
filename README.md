@@ -1,10 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello_World%20!🥳&fontSize=50&animation=twinkling)
 
-🏫 university - Korea National University of Transfortation (Department of Software)
+# Yuik (AI Researcher/Developer)
 
+## 🎓 Education
+🏫 university - Korea National University of Transfortation (Department of Software)
 👨‍🏫 graduate school - Korea National University of Transfortation (Department of Software)
 
+## 🔬 Research Experience
+
 💼 LAB / BigData & DataBase Lab & Intelligent DataBase Lab (2024.03.07 ~ 현재)
+- 국제 공동 연구(MOU) 및 해외 AI 및 로봇 공학 발표 경험 (우즈베키스탄)
+
+## 🧠 Research Interests
+- Computer Vision (Detection / Segmentation)
+- CNN-based Architectures
+- YOLO / SAM / U-Net
+- Model Optimization & Evaluation (IoU, Dice, ROC)
+
+## 🚀 What I Do on GitHub
+- AI 모델을 **왜 사용하는지** 구조 관점에서 분석
+- 논문·모델 구조를 **그림 + 코드 + 설명**으로 정리
+- 학습 과정과 실패를 기록하는 **연구 로그 중심 GitHub**
+
+> 대부분의 저장소는 "학습 및 연구 목적"으로 작성되었습니다.
 
 ![Github](https://github-readme-stats.vercel.app/api?username=yuik0712&theme=blue-green)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik0712&theme=blue-green)
