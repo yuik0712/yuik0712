@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello_World%20!🥳&fontSize=50&animation=twinkling)
-
-# Yuik (AI Researcher/Developer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yuik (AI Researcher/Developer)Hello_World%20!🥳&fontSize=50&animation=twinkling)
 
 ## 🎓 Education
 🏫 university - Korea National University of Transfortation (Department of Software)
