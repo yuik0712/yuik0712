@@ -23,9 +23,6 @@
 
 > 대부분의 저장소는 "학습 및 연구 목적"으로 작성되었습니다.
 
-![Github](https://github-readme-stats.vercel.app/api?username=yuik0712&theme=blue-green)
-![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik0712&theme=blue-green)
-
 <h2 align="center">🔥 Tech Stack🔥</h2>
 
 <h5 align="center"> 👩🏻‍💻 Main Skill </h5>
