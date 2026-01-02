@@ -2,6 +2,7 @@
 
 ## 🎓 Education
 🏫 university - Korea National University of Transfortation (Department of Software)
+
 👨‍🏫 graduate school - Korea National University of Transfortation (Department of Software)
 
 ## 🔬 Research Experience
